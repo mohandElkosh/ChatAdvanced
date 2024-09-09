@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "282704748251",
+    "project_id": "advapp-67ffc",
+    "storage_bucket": "advapp-67ffc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282704748251:android:042feb26896cdd6fe776fe",
+        "android_client_info": {
+          "package_name": "com.example.advapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVy9lf_OWOKWwK5_IanV-iyFcoea2s-V0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
